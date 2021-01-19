@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13845b32-7ab8-42c5-8faf-7f85aead4a38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ClinicManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinicmanagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/PatientvisitApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/controller/BillingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/controller/PatientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/controller/PhysicianController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/controller/VisitController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/dto/Billing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/dto/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/dto/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/dto/Physician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/dto/Visit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/exception/ApiError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/exception/CustomExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/exception/HolidayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/mapper/BillingMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/mapper/PatientMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/mapper/PhysicianMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/mapper/VisitMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/model/BillingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/model/HolidayEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/model/PatientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/model/PhysicianEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/model/VisitEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/repo/BillingRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/repo/HolidayRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/repo/PatientRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/repo/PhysicianRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/repo/VisitRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/services/BillingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/services/HolidayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/services/PatientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/services/PhysicianService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/services/VisitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patientvisit/src/test/java/com/nets/patientvisit/patientvisit/PatientvisitApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nexus/clinic/clinicmanagement/ClinicmanagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nCGKQCiJflPowVxZGyfHeGUdZa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/billing/src/main/java/com/nets/billing" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nets.patientvisit.patientvisit.repo" />
+      <recent name="com.nets.patientvisit.patientvisit.services" />
+      <recent name="com.nets.patientvisit.patientvisit.model" />
+      <recent name="com.nets.patientvisit.patientvisit.mapper" />
+      <recent name="com.nets.patientvisit.patientvisit.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/billing/src/main/java/com/nets/billing" />
+      <recent name="$PROJECT_DIR$/billing/src/main/java/com/nets/billing/demo" />
+      <recent name="$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/dto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PatientvisitApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="billing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nets.billing.BillingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClinicmanagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ClinicManagement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nexus.clinic.clinicmanagement.ClinicmanagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="billing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nets.billing.demo.BillingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatientvisitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="patientvisit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nets.patientvisit.patientvisit.PatientvisitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13845b32-7ab8-42c5-8faf-7f85aead4a38" name="Default Changelist" comment="" />
+      <created>1610886597595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610886597595</updated>
+      <workItem from="1610886599478" duration="422000" />
+      <workItem from="1610887086193" duration="216000" />
+      <workItem from="1610887324521" duration="8248000" />
+      <workItem from="1611057174325" duration="16550000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="747" y="420" key="#Assign_Data_Sources" timestamp="1610895848505">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="747" y="420" key="#Assign_Data_Sources/0.0.1680.1050@0.0.1680.1050" timestamp="1610895848505" />
+    <state x="569" y="353" key="#Notifications" timestamp="1610890698100">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="569" y="353" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1610890698100" />
+    <state x="441" y="296" width="896" height="675" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611071196972">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="440" y="187" width="896" height="675" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1610891997061" />
+    <state x="441" y="296" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1611071196972" />
+    <state x="653" y="248" width="592" height="579" key="#com.intellij.ide.util.MemberChooser" timestamp="1611069873577">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="653" y="248" width="592" height="579" key="#com.intellij.ide.util.MemberChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1611069873577" />
+    <state x="578" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611071439796">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="578" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1611071439796" />
+    <state x="578" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611072313253">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="578" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1611072313253" />
+    <state width="1126" height="277" key="GridCell.Tab.0.bottom" timestamp="1611075063427">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1610893753232" />
+    <state width="1126" height="277" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1611075063427" />
+    <state width="1126" height="277" key="GridCell.Tab.0.center" timestamp="1611075063427">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1610893753230" />
+    <state width="1126" height="277" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1611075063427" />
+    <state width="1126" height="277" key="GridCell.Tab.0.left" timestamp="1611075063426">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1610893753229" />
+    <state width="1126" height="277" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1611075063426" />
+    <state width="1126" height="277" key="GridCell.Tab.0.right" timestamp="1611075063427">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1610893753231" />
+    <state width="1126" height="277" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1611075063427" />
+    <state width="1126" height="277" key="GridCell.Tab.1.bottom" timestamp="1611075063429">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1610893753234" />
+    <state width="1126" height="277" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1611075063429" />
+    <state width="1126" height="277" key="GridCell.Tab.1.center" timestamp="1611075063428">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1610893753233" />
+    <state width="1126" height="277" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1611075063428" />
+    <state width="1126" height="277" key="GridCell.Tab.1.left" timestamp="1611075063428">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1610893753232" />
+    <state width="1126" height="277" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1611075063428" />
+    <state width="1126" height="277" key="GridCell.Tab.1.right" timestamp="1611075063428">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1610893753234" />
+    <state width="1126" height="277" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1611075063428" />
+    <state width="1126" height="277" key="GridCell.Tab.2.bottom" timestamp="1611062490205">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="277" key="GridCell.Tab.2.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1611062490205" />
+    <state width="1126" height="277" key="GridCell.Tab.2.center" timestamp="1611062490204">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="277" key="GridCell.Tab.2.center/0.25.1680.1025@0.25.1680.1025" timestamp="1611062490204" />
+    <state width="1126" height="277" key="GridCell.Tab.2.left" timestamp="1611062490204">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="277" key="GridCell.Tab.2.left/0.25.1680.1025@0.25.1680.1025" timestamp="1611062490204" />
+    <state width="1126" height="277" key="GridCell.Tab.2.right" timestamp="1611062490205">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1126" height="277" key="GridCell.Tab.2.right/0.25.1680.1025@0.25.1680.1025" timestamp="1611062490205" />
+    <state width="229" height="457" key="HiddenNamespacesPopup" timestamp="1610891335592">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="229" height="457" key="HiddenNamespacesPopup/0.0.1680.1050@0.0.1680.1050" timestamp="1610891335592" />
+    <state x="349" y="152" key="SettingsEditor" timestamp="1610892150358">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="152" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1610892150358" />
+    <state x="349" y="173" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1610887400702" />
+    <state x="246" y="157" key="new project wizard" timestamp="1611058475036">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="246" y="135" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1610890124899" />
+    <state x="246" y="157" key="new project wizard/0.25.1680.1025@0.25.1680.1025" timestamp="1611058475036" />
+    <state x="505" y="252" width="670" height="660" key="search.everywhere.popup" timestamp="1611074541682">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1610894875677" />
+    <state x="505" y="252" width="670" height="660" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1611074541682" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patientvisit/src/main/java/com/nets/patientvisit/patientvisit/controller/PatientController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
